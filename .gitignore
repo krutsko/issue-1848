@@ -1,0 +1,41 @@
+# eclipse
+.classpath
+.project
+.settings
+
+# maven
+**/target/**
+*.versionsBackup
+*.releaseBackup
+
+# common junk
+*.log
+*.diff
+*.patch
+*.bak
+*.backup
+*.debug
+*.dump
+
+# vim 
+*.swp
+
+# intellij / android studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Mac filesystem dust
+.DS_Store
+
+# pmd
+.pmdruleset
+.pmd
+
+# netbeans
+**/nbproject
+
+# merge tooling
+*.orig
+
