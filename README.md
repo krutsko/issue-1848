@@ -1,4 +1,4 @@
-A simple example code for eclipse/jetty.project#1848
+A simple example code for [eclipse/jetty.project#1848](https://github.com/eclipse/jetty.project/issues/1848)
 
 To build server ...
 
