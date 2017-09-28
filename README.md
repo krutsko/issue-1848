@@ -9,7 +9,7 @@ points to jars in a (relative to the demo.jar) `lib/` directory.
 
 Simply running the `demo.jar` after the build is sufficient.
 
-    $ java -jar target/demo.jar [so_linger value]
+    $ java -jar target/demo.jar [so_linger value] [payload_size]
     
 The output of the server will tell you what the soLinger setting is.
 
